@@ -1,2 +1,1 @@
-# Hyperparameter-Optimization
-Hyperparameter Optimization techniques 
+# All-Hyperparamter-Optimization
